@@ -23,9 +23,9 @@ static int hourglassSum(int[][] arr) {
     /* This problem was quite interesting. I remember working on it 
     /* a while ago and I almost banged my head on the wall lol, but today
     /* it wasn't that bad. I was able to come up with a solution but unfortunately 
-    /* I kept on getting an error out of bounds exception. I wish I had saved my previous 
+    /* I kept on getting an error out of bounds exception. I wish I had saved my previous solution
     /* to show what the problem was, but anywho the main thing is that I had my for loop
     /* iterate through the enitre array failing to realize that j and i could go up to two at 
     /* a time, so naturally if there are no values below i or to the right j, it won't work.
     /* Big ups to Nick White on YouTube for helping me understand the logic behind this! 
-    /* Reminder: Always [ay attention toyour constraints, they make things easier */
+    /* Reminder: Always pay attention to your constraints, they make things easier */
