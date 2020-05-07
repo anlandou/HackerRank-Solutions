@@ -9,5 +9,5 @@ static int[] reverseArray(int[] a) {
               j++; 
           }
 
-          return myArray; 
+          return myArray;   //Notice how you did not need to add an extra space, an array does that for you. 
     }
