@@ -10,4 +10,5 @@ static int[] reverseArray(int[] a) {
           }
 
           return myArray;   //Notice how you did not need to add an extra space, an array does that for you. 
+                              //Here you just practiced the displaying method of operation. Good Job!
     }
